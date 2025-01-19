@@ -585,6 +585,10 @@ video {
   height: 100vh;
 }
 
+.h-screen {
+  height: 100vh;
+}
+
 .w-40 {
   width: 10rem;
 }
@@ -739,6 +743,50 @@ video {
 @media (min-width: 1024px) {
   .lg\:h-60 {
     height: 15rem;
+  }
+
+  .lg\:h-\[\] {
+    height: ;
+  }
+
+  .lg\:h-\[8\] {
+    height: 8;
+  }
+
+  .lg\:h-\[80\] {
+    height: 80;
+  }
+
+  .lg\:h-\[80\%\] {
+    height: 80%;
+  }
+
+  .lg\:h-\[8\%\] {
+    height: 8%;
+  }
+
+  .lg\:h-\[\%\] {
+    height: %;
+  }
+
+  .lg\:h-\[9\%\] {
+    height: 9%;
+  }
+
+  .lg\:h-\[90\%\] {
+    height: 90%;
+  }
+
+  .lg\:h-\[85\%\] {
+    height: 85%;
+  }
+
+  .lg\:h-\[84\%\] {
+    height: 84%;
+  }
+
+  .lg\:h-\[83\%\] {
+    height: 83%;
   }
 
   .lg\:w-60 {
