@@ -686,6 +686,18 @@ video {
   width: full;
 }
 
+.w-\[10\%\] {
+  width: 10%;
+}
+
+.w-\[0\%\] {
+  width: 0%;
+}
+
+.w-\[900\%\] {
+  width: 900%;
+}
+
 .flex-col {
   flex-direction: column;
 }
